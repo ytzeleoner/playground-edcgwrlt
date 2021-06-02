@@ -27,3 +27,9 @@ This *mandatory* file describes both the table of content and the programming pr
 # Advanced Tech.io features
 
 Tech.io provides all the tools to make great online hands-on content, quizzes, web consoles, and visual content. Please refer to the [documentation](https://tech.io/doc) to learn more about the possibilities.
+
+?[What is the answer to Life, the Universe and Everything?]
+-[ ] There is no answer to that!
+-[ ] Sleep and eat
+-[x] Easy, this is 42
+-[ ] Peace & Love
